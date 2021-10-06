@@ -1,0 +1,20 @@
+{
+    "request":{
+        "json_response":"True"
+    },
+    "api_url":{
+        "url":"http://api.marketstack.com/v1/eod",
+        "url_intraday":"http://api.marketstack.com/v1/intraday",
+        "url_endofday":"http://api.marketstack.com/v1/eod"
+
+    },
+    "api_params":{
+        "access_key":"c35605a7a56902a311f5a899cfc1f134",
+        "symbols":"",
+        "date_from":"",
+        "date_to":"",
+        "limit":""
+    }
+
+    
+}
