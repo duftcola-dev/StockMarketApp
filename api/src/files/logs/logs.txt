@@ -1,0 +1,7 @@
+4|12|2021 - 22:37:34 | error | testing3
+4|12|2021 - 23:19:17 | error | testing4
+4|12|2021 - 23:19:17 | error | testing4
+4|12|2021 - 23:19:18 | error | testing4
+4|12|2021 - 23:19:18 | error | testing4
+5|12|2021 - 19:26:8 | error | Request module -> Unknown error on json decoding operation
+5|12|2021 - 19:26:55 | error | Request module -> Unknown error on json decoding operation

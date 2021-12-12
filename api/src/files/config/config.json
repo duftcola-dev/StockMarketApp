@@ -1,0 +1,21 @@
+{
+    "request":{
+        "json_response":"True"
+    },
+    "api":{
+        "tickers":"http://api.marketstack.com/v1/tickers",
+        "intraday":"http://api.marketstack.com/v1/intraday",
+        "eod":"http://api.marketstack.com/v1/eod",
+        "params":{
+            "access_key":"c35605a7a56902a311f5a899cfc1f134",
+            "symbols":"",
+            "limit":"100",
+            "offset":"0"
+
+        }
+    }
+    
+    
+
+    
+}
